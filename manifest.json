@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0.67",
+  "download_url": "https://github.com/andyhongguo/releases/releases/download/v1.0.0.67/HongguoDownloader.exe",
+  "sha256": "8e13333822c7c2ac64863a16d9c94a266314b0f3d25074d7375cf42cd7e7d59f",
+  "release_notes": "1. Dynamic Cast & Characters with 100+ native actors and Actor Works modal\n2. Dynamic 4-row Catalog grid with viewport-adaptive responsive filling\n3. Daily Content Refresh with smart 24-hr local persistent cache\n4. Software Update Checker with SHA-256 verification and detached installer\n5. Offline Khmer typography and 3-way language localization",
+  "notes": [
+    "Dynamic Cast & Characters with 100+ native actors and Actor Works modal",
+    "Dynamic 4-row Catalog grid with viewport-adaptive responsive filling",
+    "Daily Content Refresh with smart 24-hr local persistent cache",
+    "Software Update Checker with SHA-256 verification and detached installer",
+    "Offline Khmer typography and 3-way language localization"
+  ],
+  "release_date": "2026-10-01",
+  "mandatory": false,
+  "deployment_status": "PREPARED_NOT_PUBLISHED"
+}
