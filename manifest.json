@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0.69",
-  "download_url": "https://github.com/andyhongguo/releases/releases/download/v1.0.0.69/HongguoDownloader.exe",
-  "sha256": "c9b50aeaad7faa42953b99d4699e6382cec0c9203a6dc8d07ccb72131d2899be",
+  "version": "1.0.0.70",
+  "download_url": "https://github.com/andyhongguo/releases/releases/download/v1.0.0.70/HongguoDownloader.exe",
+  "sha256": "89fc40af37029c6e5da059e1fd2ff2979f6492a7dbade99b59212b336f005bf2",
   "release_notes": "1. Built-in Episode Playback with seamless preview player, episode switching, and offline decryption\n2. Unified mixed Catalog All filter across Human Drama, AI Drama, and Animated content\n3. Silent 24-hour background update checking without startup popups\n4. Dynamic 4-row Catalog grid with viewport-adaptive responsive filling\n5. Daily Content Refresh with smart local persistent cache",
   "notes": [
     "Built-in Episode Playback with seamless preview player, episode switching, and offline decryption",
