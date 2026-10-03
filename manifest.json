@@ -1,15 +1,16 @@
 {
-  "version": "1.0.0.68",
-  "download_url": "https://github.com/andyhongguo/releases/releases/download/v1.0.0.68/HongguoDownloader.exe",
-  "sha256": "5b35584b92e737cbd32a1157bc548aaee5bbc7b45d406d14f9e92146657f4cd7",
-  "release_notes": "1. Unified mixed Catalog All filter across Human Drama, AI Drama, and Animated content\n2. Silent 24-hour background update checking without startup popups\n3. Dynamic 4-row Catalog grid with viewport-adaptive responsive filling\n4. Daily Content Refresh with smart local persistent cache",
+  "version": "1.0.0.69",
+  "download_url": "https://github.com/andyhongguo/releases/releases/download/v1.0.0.69/HongguoDownloader.exe",
+  "sha256": "c9b50aeaad7faa42953b99d4699e6382cec0c9203a6dc8d07ccb72131d2899be",
+  "release_notes": "1. Built-in Episode Playback with seamless preview player, episode switching, and offline decryption\n2. Unified mixed Catalog All filter across Human Drama, AI Drama, and Animated content\n3. Silent 24-hour background update checking without startup popups\n4. Dynamic 4-row Catalog grid with viewport-adaptive responsive filling\n5. Daily Content Refresh with smart local persistent cache",
   "notes": [
+    "Built-in Episode Playback with seamless preview player, episode switching, and offline decryption",
     "Unified mixed Catalog All filter across Human Drama, AI Drama, and Animated content",
     "Silent 24-hour background update checking without startup popups",
     "Dynamic 4-row Catalog grid with viewport-adaptive responsive filling",
     "Daily Content Refresh with smart local persistent cache"
   ],
-  "release_date": "2026-10-02",
+  "release_date": "2026-10-03",
   "mandatory": false,
-  "deployment_status": "PREPARED_NOT_PUBLISHED"
+  "deployment_status": "DEPLOYED"
 }
